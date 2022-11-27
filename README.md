@@ -4,7 +4,7 @@ To run all models we need following datasets which are given in data directory.
 * vehicle_data.csv
 * Issue Arena.csv
 * output.csv
-    * To generate this file you need to run NoShow_Part1_Data_Generation.ipynb or you can simply use given output.csv.gz
+    * To generate this file you need to run NoShow_Part1_Data_Generation.ipynb or you can simply unzip and use given output.csv.gz 
 
 <b>Installing Graphviz and pydotplus </b>
 
